@@ -1,4 +1,4 @@
- #                                                     Hi 👋, I'm Adwaith
+<h1 align="center">Hi 👋, I'm Adwaith</h1>
 
 <h3 align="center">Full Stack Developer | SaaS Builder | AWS Cloud Enthusiast</h3>
 
