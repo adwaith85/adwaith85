@@ -1,22 +1,26 @@
 # Hi 👋, I'm Adwaith
 
+<h3 align="center">Full Stack Developer | SaaS Builder | AWS Cloud Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+AWS;Building+Scalable+Web+Applications;SaaS+Platforms+and+Modern+Digital+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+AWS;Building+Scalable+SaaS+Platforms;Creating+Modern+Web+Experiences;Turning+Ideas+Into+Products" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adwaith85&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=adwaith85&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer specializing in React, Node.js, MongoDB, MySQL, AWS and TypeScript
-* 🌐 Building scalable SaaS platforms and modern web applications
-* ☁️ Experienced in deploying production applications on AWS
-* 📦 Passionate about creating complete products from idea to deployment
-* 🚀 Interested in System Design, Cloud Infrastructure and Product Development
+💻 Full Stack Developer passionate about building scalable web applications and SaaS products.
+
+☁️ Experienced in deploying production-ready applications on AWS with custom domains and cloud infrastructure.
+
+🌐 Skilled in designing, developing and deploying complete products from frontend to backend.
+
+🚀 Currently focused on SaaS architecture, system design and high-performance web applications.
 
 ---
 
@@ -36,16 +40,29 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
 
-### Database
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 
-### Cloud & DevOps
+### Cloud & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
+
+---
+
+## 🏆 Achievements
+
+* 🚀 Built and deployed 6+ production-ready full-stack applications
+* ☁️ Managed AWS deployments with custom domains and subdomains
+* 🛒 Developed a Shopify-inspired SaaS platform
+* 🚕 Built a complete cab booking platform with separate user and driver applications
+* 💬 Created a real-time chat application
+* 📦 Designed and deployed scalable backend APIs
+* 🌐 Delivered multiple live web applications
 
 ---
 
@@ -53,9 +70,9 @@
 
 ### 🌐 Personal Portfolio
 
-Live: https://www.adwaid.online/
+🔗 https://www.adwaid.online/
 
-A modern portfolio website showcasing projects, skills, experience and achievements with responsive design and smooth user experience.
+Modern developer portfolio showcasing projects, skills and experience.
 
 **Tech Stack:** React, Node.js, Tailwind CSS, AWS
 
@@ -63,9 +80,16 @@ A modern portfolio website showcasing projects, skills, experience and achieveme
 
 ### ✅ Task Manager
 
-Live: https://todo.adwaid.online/
+🔗 https://todo.adwaid.online/
 
-A productivity application that helps users manage tasks efficiently with task creation, updates, tracking and management features.
+Task management application with productivity-focused workflow.
+
+**Features**
+
+* Create Tasks
+* Update Tasks
+* Delete Tasks
+* Status Tracking
 
 **Tech Stack:** React, Node.js, MongoDB, AWS
 
@@ -73,9 +97,16 @@ A productivity application that helps users manage tasks efficiently with task c
 
 ### 🛒 Shop Cart - E-Commerce Platform
 
-Live: https://shop-cart.adwaid.online/
+🔗 https://shop-cart.adwaid.online/
 
-Complete online shopping platform featuring product browsing, cart management, authentication and order workflow.
+Full-featured shopping platform with product browsing and cart management.
+
+**Features**
+
+* Product Catalog
+* User Authentication
+* Shopping Cart
+* Order Workflow
 
 **Tech Stack:** React, Node.js, MongoDB, AWS
 
@@ -83,32 +114,40 @@ Complete online shopping platform featuring product browsing, cart management, a
 
 ### 🚕 Oober - Cab Booking Platform
 
-User App:
+👤 User App:
 https://oober.adwaid.online/
 
-Driver App:
+🚖 Driver App:
 https://oober-driver.adwaid.online/
 
-A full-stack ride booking platform connecting passengers and drivers with dedicated dashboards and booking workflows.
+Cab booking ecosystem connecting riders and drivers.
+
+**Features**
+
+* Ride Booking
+* Driver Dashboard
+* User Dashboard
+* Booking Management
 
 **Tech Stack:** React, Node.js, MongoDB, AWS
 
 ---
 
-### 🏪 Genmise - SaaS Store Builder Platform
+### 🏪 Genmise - Multi-Tenant SaaS Store Builder
 
-Live: https://genmise.adwaid.online/
+🔗 https://genmise.adwaid.online/
 
-A multi-tenant e-commerce SaaS platform allowing users to create and manage their own online stores similar to Shopify.
+Shopify-inspired SaaS platform allowing users to create and manage their own online stores.
 
-Features:
+**Features**
 
+* Multi-Tenant Architecture
 * Store Creation
 * Product Management
 * Admin Dashboard
 * Order Management
-* Multi-Store Architecture
-* Custom Store Setup
+* Customer Management
+* Scalable Store Infrastructure
 
 **Tech Stack:** React, TypeScript, Node.js, MongoDB, AWS
 
@@ -116,22 +155,66 @@ Features:
 
 ### 💬 Talkies - Real-Time Chat Application
 
-A real-time messaging platform supporting instant communication between users.
+Real-time messaging platform.
 
-Features:
+**Features**
 
-* Real-time Messaging
-* Authentication
+* Real-Time Chat
+* User Authentication
+* Messaging System
 * Chat Management
-* User Profiles
 
 **Tech Stack:** React, Node.js, MySQL
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Core Skills
 
-![Adwaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=adwaith85\&show_icons=true\&theme=tokyonight)
+✔ Full Stack Development
+
+✔ REST API Development
+
+✔ Authentication & Authorization
+
+✔ Database Design
+
+✔ Cloud Deployment
+
+✔ AWS Infrastructure
+
+✔ SaaS Architecture
+
+✔ System Design Fundamentals
+
+✔ Responsive UI Development
+
+✔ Performance Optimization
+
+---
+
+## 📈 Currently Building
+
+* SaaS Platforms
+* Multi-Tenant Architectures
+* Advanced E-Commerce Solutions
+* Real-Time Applications
+* Cloud-Based Systems
+
+---
+
+## 🧠 Currently Learning
+
+* Advanced System Design
+* Docker
+* CI/CD Pipelines
+* Microservices Architecture
+* Advanced AWS Services
+
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adwaith85\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adwaith85\&layout=compact\&theme=tokyonight)
 
@@ -141,21 +224,26 @@ Features:
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn:
+💼 LinkedIn
+
 https://www.linkedin.com/in/adwaith-a-kumar-28193939a/
 
-🌍 Portfolio:
+🌍 Portfolio
+
 https://www.adwaid.online/
 
-📧 Email:
+📧 Email
+
 [adwaithadhu85227@gmail.com](mailto:adwaithadhu85227@gmail.com)
 
 ---
 
-### 🚀 Current Focus
+## ⚡ Fun Fact
 
-* Building scalable SaaS products
-* Advanced React & TypeScript
-* System Design
-* AWS Cloud Infrastructure
-* High Performance Web Applications
+I enjoy building complete products from idea ➜ design ➜ development ➜ deployment ➜ production.
+
+---
+
+### 🚀 Current Mission
+
+Building scalable SaaS platforms, modern web applications and cloud-native products that solve real-world problems.
